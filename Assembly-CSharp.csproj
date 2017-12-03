@@ -56,8 +56,10 @@
      <Compile Include="Assets\FirstPerson.cs" />
      <Compile Include="Assets\PlatformHorizonScript.cs" />
      <Compile Include="Assets\PlatformVerticalScript.cs" />
+     <Compile Include="Assets\RotationScript.cs" />
      <Compile Include="Assets\ScaleY.cs" />
      <Compile Include="Assets\SphereScript.cs" />
+     <Compile Include="Assets\TrigerDoor.cs" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\AxeyWorks\Low Poly v2\Shaders\AxeyWorksPolyWaterBlendFoam.shader" />
      <None Include="Assets\AxeyWorks\Low Poly v2\Shaders\AxeyWorksMobDist.shader" />
